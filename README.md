@@ -9,7 +9,7 @@ My skills and certifications are summarized below:
 * Data Management and Analytics Software Platform: Amazon Web Services, Apache Hadoop IBM SPSS Statistical Software
 * Microsoft Certifications: MS Excel Expert, MS Word, and MS PowerPoint Certifications
 
-In my repositories, I have shared some of my analytics projects where that showcase my experience in data cleaning, exploration, and visualization using tools like Python, R, SQL, PowerBI, and more. I am always open for feedback!
+In my repositories, I have shared some of my analytics projects where that showcase my analytical experience including data cleaning, exploration, and visualization using tools like Python, R, SQL, PowerBI, and more. I am always open for feedback!
 
 
 ## Contact Information
