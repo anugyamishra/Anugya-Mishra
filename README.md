@@ -15,6 +15,7 @@ In my repositories, I have shared some of my analytics projects where that showc
 ## Contact Information
 
 Email: anugya.mishra@du.edu
+
 LinkedIn: https://www.linkedin.com/in/anugyamishra/ 
 
 
