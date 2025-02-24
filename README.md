@@ -1,5 +1,6 @@
-# Anugya-Mishra-About
+# Anugya-Mishra
 
+## About
 Hello, I'm Anugya Mishra! I have a bachelor's degree in Management and Economics and recently graduated with a master's in Business Analytics from the University of Denver. I am looking for career opportunities in the field of analytics,  where I can apply my skills and knowledge to contribute to data-driven decision-making. 
 
 My skills and certifications are summarized below:
